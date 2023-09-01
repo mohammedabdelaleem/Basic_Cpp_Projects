@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680048897 source:d:\university\coding\my projects\snake\main.cpp
+	<iostream>
+	<graphics.h>
+	<climits>
+	<queue>
+	<fstream>
+	<typeinfo>
+	<stdlib.h>
+	<string>
+
