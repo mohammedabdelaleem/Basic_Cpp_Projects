@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1687693453 source:d:\university\coding\practise\strings\main.cpp
-	<iostream>
-	<vector>
-	<algorithm>
-	<cmath>
-	<sstream>
-	<string>
-
